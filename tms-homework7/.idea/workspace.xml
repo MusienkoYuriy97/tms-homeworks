@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe2f2b4-fd7f-4d1e-b828-a6242f61b8c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oK4EmQ6MlL9Y4KQ53EjfW1aOlJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="exercise2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApplication">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="execrise1.MainApplication" />
+      <module name="tms-homework7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMusician" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise2.MainMusician" />
+      <module name="tms-homework7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication" />
+        <item itemvalue="Application.MainMusician" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe2f2b4-fd7f-4d1e-b828-a6242f61b8c8" name="Default Changelist" comment="" />
+      <created>1613021838711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613021838711</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="946" y="666" key="#com.intellij.ide.util.MemberChooser" timestamp="1613112627635">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="946" y="666" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1613112627635" />
+    <state x="119" y="932" width="404" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1613107606263">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="119" y="932" width="404" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1440@0.0.2560.1440" timestamp="1613107606263" />
+    <state x="119" y="953" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1613107596795">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="119" y="953" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1440@0.0.2560.1440" timestamp="1613107596795" />
+    <state x="275" y="808" key="FileChooserDialogImpl" timestamp="1613109394736">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="275" y="808" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1613109394736" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613325242536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613325242536" />
+    <state width="605" height="245" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1613113304278" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613325242536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613325242536" />
+    <state width="605" height="245" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1613113304278" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613325242536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613325242536" />
+    <state width="605" height="245" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1613113304278" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613325242536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613325242536" />
+    <state width="605" height="245" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1613113304278" />
+    <state x="109" y="473" key="com.intellij.ide.util.TipDialog" timestamp="1613404292105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="109" y="473" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1613404292105" />
+    <state x="182" y="835" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1613107315386" />
+    <state x="0" y="57" key="new project wizard" timestamp="1613404344875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="57" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1613404344875" />
+  </component>
+</project>

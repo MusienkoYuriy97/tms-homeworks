@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="678f3be0-088e-46bf-a500-cdceec22c6da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nc3GYDD1sqgist25HuH8JFuHRE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TMSCWork" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Sort">
+    <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise10" />
+      <module name="TMSCHomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise7" />
+      <module name="TMSCHomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise8" />
+      <module name="TMSCHomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise9" />
+      <module name="TMSCHomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort" />
+      <module name="TMSCHomeWork3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.Exercise10" />
+        <item itemvalue="Application.Exercise9" />
+        <item itemvalue="Application.Exercise8" />
+        <item itemvalue="Application.Exercise7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="678f3be0-088e-46bf-a500-cdceec22c6da" name="Default Changelist" comment="" />
+      <created>1611675456448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611675456448</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1611764180963">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1611764180963" />
+    <state width="1493" height="113" key="GridCell.Tab.0.bottom" timestamp="1611763465645">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1611763465645" />
+    <state width="1493" height="113" key="GridCell.Tab.0.center" timestamp="1611763465645">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1611763465645" />
+    <state width="1493" height="113" key="GridCell.Tab.0.left" timestamp="1611763465645">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1611763465645" />
+    <state width="1493" height="113" key="GridCell.Tab.0.right" timestamp="1611763465645">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="113" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1611763465645" />
+    <state x="194" y="155" key="IDE.errors.dialog" timestamp="1611739504559">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="194" y="155" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1611739504559" />
+    <state x="93" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1611738417570">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1611738417570" />
+    <state x="53" y="189" key="run.anything.popup" timestamp="1611738854883">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="53" y="189" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1611738854883" />
+  </component>
+</project>
