@@ -2,7 +2,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import data.Categories;
 import data.Category;
 import data.Product;
-
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Unmarshaller;
@@ -26,22 +25,20 @@ public class Main {
 
             //2-я часть задания
             Files.write(Paths.get("categories-info.txt"),information(categories));
-
         } catch (JAXBException | IOException e) {
             e.printStackTrace();
         }
     }
 
-
-
     public static Categories getPriceOverThreeHundred(Categories categories){
         Categories result = new Categories();
-        result.setCategoryList(categories.getCategoryList());
+        List<Category> categoryList = new ArrayList<>();
+        categoryList.addAll(categories.getCategoryList());
+        result.setCategoryList(categoryList);
 
-
-        for (int i = 0; i < result.getCategoryList().size(); i++) {
+        for (int i = 0; i < categories.getCategoryList().size(); i++) {
             List<Product> products = new ArrayList<>();
-            for (Product p : categories.getCategoryList().get(i).getProductList()){
+            for (Product p : result.getCategoryList().get(i).getProductList()){
                 if (p.getPrice() > 300){
                     products.add(p);
                 }
@@ -52,13 +49,12 @@ public class Main {
         return result;
     }
 
-
     public static List<String> information(Categories categories){
         List<String> stringList = new ArrayList<>();
-        for (Category c: categories.getCategoryList()){
+        for (Category c: getPriceOverThreeHundred(categories).getCategoryList()){
             stringList.add(c.getName() + ": " + c.getProductList().size());
         }
+
         return stringList;
     }
-
 }

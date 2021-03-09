@@ -3,6 +3,7 @@ package data;
 import javax.xml.bind.annotation.XmlAttribute;
 
 public class Product {
+
     private int id;
     private String name;
     private int price;
@@ -17,7 +18,6 @@ public class Product {
 
     public Product() {
     }
-
     @XmlAttribute
     public int getId() {
         return id;

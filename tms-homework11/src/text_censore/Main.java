@@ -14,12 +14,10 @@ public class Main {
                 for (String sentence : myText){
                     if (sentence.toLowerCase().contains(blackWord.toLowerCase()) &&
                             !wrongSentences.contains(sentence)){
-
                         wrongSentences.add(sentence);
                     }
                 }
             }
-
 
             if (wrongSentences.size() == 0){
                 System.out.println("Файл прошел проверку на цензуру:");
