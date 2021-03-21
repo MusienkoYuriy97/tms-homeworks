@@ -8,7 +8,7 @@ public class Player {
     public Player() {
     }
 
-    @XmlAttribute(name = "Игрок")
+    @XmlAttribute(name = "Player")
     public String getName() {
         return name;
     }

@@ -10,14 +10,14 @@ public class Cities {
     public Cities() {
     }
 
-    @XmlElement(name = "Город")
+    @XmlElement(name = "City")
     public Set<String> getCities() {
         return setCities;
     }
 
     @Override
     public String toString() {
-        return "Список городов - " + setCities;
+        return "CityList - " + setCities;
     }
 
     public boolean isEmpty(){

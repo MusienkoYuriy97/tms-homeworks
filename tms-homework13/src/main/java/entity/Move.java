@@ -5,7 +5,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 import java.util.HashMap;
 import java.util.Map;
 
-@XmlRootElement(name = "»гра√орода")
+@XmlRootElement(name = "Game")
 public class Move {
     private final Map<Player, Cities> playerMoves;
 
@@ -13,7 +13,7 @@ public class Move {
         playerMoves = new HashMap<>();
     }
 
-    @XmlElementWrapper(name = "’оды»гроков")
+    @XmlElementWrapper(name = "Moves")
     public Map<Player, Cities> getPlayerMoves() {
         return playerMoves;
     }
