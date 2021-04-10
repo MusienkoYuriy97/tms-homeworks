@@ -13,8 +13,19 @@ public class Doctor implements Runnable {
 
     @Override
     public void run() {
+        try {
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         while (true){
             //пауза на время лечения доктором
+            System.out.printf("%s %s лечит пациента - %s\n",
+                    doctorLevel.getDescription(),
+                    name,
+                    hospital.getPatientQueue().poll());
+
             try {
                 Thread.sleep(doctorLevel.getTime()*1000);
             }catch (InterruptedException e) {
@@ -26,10 +37,7 @@ public class Doctor implements Runnable {
                 break;
             }
 
-            System.out.printf("%s %s вылечил пациента - %s\n",
-                    doctorLevel.getDescription(),
-                    name,
-                    hospital.getPatientQueue().poll());
+
         }
     }
 }

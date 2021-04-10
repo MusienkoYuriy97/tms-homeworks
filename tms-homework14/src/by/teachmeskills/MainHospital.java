@@ -10,11 +10,6 @@ public class MainHospital {
         Doctor doctor3 = new Doctor("Zack", DoctorLevel.INTERN_DOCTOR, hospital);
 
         new Thread(hospital).start();
-        try {
-            Thread.sleep(4000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
         new Thread(doctor1).start();
         new Thread(doctor2).start();
         new Thread(doctor3).start();

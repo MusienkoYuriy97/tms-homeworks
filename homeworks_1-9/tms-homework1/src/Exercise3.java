@@ -1,6 +1,10 @@
+import java.util.Scanner;
+
 public class Exercise3 {
     public static void main(String[] args) {
-        int x = 1;
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Input number:");
+        int x = scanner.nextInt();
 
         if (x > 0){
             x++;

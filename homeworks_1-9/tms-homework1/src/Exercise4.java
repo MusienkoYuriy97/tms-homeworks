@@ -1,8 +1,14 @@
+import java.util.Scanner;
+
 public class Exercise4 {
     public static void main(String[] args) {
-        int a = 1;
-        int b = -2;
-        int c = 3;
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Input first number:");
+        int a = scanner.nextInt();
+        System.out.print("Input second number:");
+        int b = scanner.nextInt();
+        System.out.print("Input third number:");
+        int c = scanner.nextInt();
         int positiveCounter = 0;
 
         if (a > 0){

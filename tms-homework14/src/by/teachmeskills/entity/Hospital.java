@@ -5,7 +5,7 @@ import java.util.Queue;
 
 public class Hospital implements Runnable{
     private HospitalRegistry hospitalRegistry = new HospitalRegistry();
-    private Queue<Patient> patientQueue = new LinkedList<>();
+    private volatile Queue<Patient> patientQueue = new LinkedList<>();
     private boolean isStart = true;
 
     public synchronized Queue<Patient> getPatientQueue() {

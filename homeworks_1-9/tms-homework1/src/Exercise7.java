@@ -1,6 +1,10 @@
+import java.util.Scanner;
+
 public class Exercise7 {
     public static void main(String[] args) {
-        int numOfProgrammer = 21;
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Введи количество программистов:");
+        int numOfProgrammer = scanner.nextInt();
 
         if (numOfProgrammer % 10 == 0 || numOfProgrammer % 10 > 4 ||
                 numOfProgrammer % 100 == 11 || numOfProgrammer == 11 ||

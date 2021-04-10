@@ -1,8 +1,15 @@
+import java.util.Scanner;
+
 public class Exercise5 {
     public static void main(String[] args) {
-        int a = 1;
-        int b = 2;
-        int c = -1;
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Input first number:");
+        int a = scanner.nextInt();
+        System.out.print("Input second number:");
+        int b = scanner.nextInt();
+        System.out.print("Input third number:");
+        int c = scanner.nextInt();
+
         int negativeNumber = 0;
         int positiveCounter = 0;
 
